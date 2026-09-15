@@ -1,6 +1,10 @@
-# 🔗 Linksy- URL Shortener
+# Linksy- URL Shortener
 
 A full-stack URL shortener built with **FastAPI** and **React**, featuring custom aliases, QR code generation, and a polished, modern UI.
+
+
+https://github.com/user-attachments/assets/a42d2cc8-1cdd-4f0b-ac52-fbc872f2a8c7
+
 
 ![Tech Stack](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
