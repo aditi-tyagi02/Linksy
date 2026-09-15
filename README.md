@@ -10,13 +10,6 @@ A full-stack URL shortener built with **FastAPI** and **React**, featuring custo
 
 ---
 
-## Demo
-
-
-*A short screen recording demonstrating URL shortening, custom aliases, and QR code generation goes here.*
-
----
-
 ## Overview
 
 Linksy takes long, unwieldy URLs and turns them into short, shareable links — with the option to choose a custom, memorable alias instead of a random code. Every shortened link can also be turned into a scannable QR code, downloadable as a PNG.
